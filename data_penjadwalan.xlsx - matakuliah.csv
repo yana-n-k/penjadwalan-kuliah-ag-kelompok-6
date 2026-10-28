@@ -1,0 +1,21 @@
+﻿id,nama,kelas,semester,sks,dosen_id,jumlah_mhs,kelompok_mhs
+MK01,Metodologi Penelitian,A,V,3,D01,45,V-A
+MK02,Metodologi Penelitian,B,V,3,D02,45,V-B
+MK03,Analisis dan Desain Perangkat Lunak,A,V,3,D03,45,V-A
+MK04,Analisis dan Desain Perangkat Lunak,B,V,3,D04,41,V-B
+MK05,Pengolahan Citra Digital,A,V,3,D04,48,V-A
+MK06,Pengolahan Citra Digital,B,V,3,D05,45,V-B
+MK07,Jaringan Syaraf Tiruan,A,V,3,D06,44,V-A
+MK08,Jaringan Syaraf Tiruan,B,V,3,D05,43,V-B
+MK09,Data Mining,A,V,3,D05,46,V-A
+MK10,Data Mining,B,V,3,D07,45,V-B
+MK11,Penjaminan Mutu Perangkat Lunak,-,-,3,D04,79,-
+MK12,Requirement Engineering,-,-,3,D03,116,-
+MK13,Algoritma Genetik,-,-,3,D08,74,-
+MK14,Administrasi Basis Data,-,-,3,D02,35,-
+MK15,Deep Learning,-,-,3,D08,38,-
+MK16,Sistem Digital,A,I,3,D05,49,I-A
+MK17,Sistem Digital,B,I,3,D06,50,I-B
+MK18,Basis Data I,A,III,3,D02,48,III-A
+MK19,Basis Data I,B,III,3,D07,47,III-B
+MK20,Pengantar Teknik Informatika,A,I,3,D01,49,I-A
