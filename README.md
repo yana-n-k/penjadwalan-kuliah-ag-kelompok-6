@@ -39,5 +39,5 @@ elitisme 2 individu, seleksi turnamen, crossover uniform. Pengujian dilakukan
 | 1 | Meilisa Timbung | Analis Eksperimen | Bagian 4 laporan, pembuatan PPT |
 | 2 | Septi Septia | Programmer Fitness & Validasi | Bagian 3 dan 7 laporan, pembuatan PPT |
 | 3 | Vira Nairul Azkia | Ketua / Analis Masalah | Bagian 1 dan 2 laporan, implementasi kode, penyusunan data (CSV), pembuatan PPT |
-| 4 | Yana Nurlufi Khomariah | Programmer Inti AG | Bagian 5 dan 8 laporan, implementasi kode, penyusunan data (CSV) |
-| 5 | Daniel Fransisco | Penulis & Presenter | Bagian 6 laporan |
+| 4 | Yana Nurlufi Khomariah | Programmer Inti AG | Bagian 5 dan 8 laporan, implementasi kode, penyusunan data (CSV), pembuatan PPT |
+| 5 | Daniel Fransisco | Penulis & Presenter | Bagian 6 laporan, pembuatan PPT |
