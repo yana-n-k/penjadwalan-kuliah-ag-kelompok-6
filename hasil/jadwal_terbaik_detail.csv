@@ -1,0 +1,21 @@
+﻿id_mk,mata_kuliah,kelas,dosen,kelompok_mhs,jumlah_mhs,hari,slot_ke,jam,ruang,kapasitas_ruang
+MK19,Basis Data I,B,"Efrans Christian, S.T., M.T.",III-B,47,Senin,1,7:00-9:30,AUDITORIUM-FT,120
+MK18,Basis Data I,A,"Devi Karolita, S.Kom., M.Kom., Ph.D.",III-A,48,Senin,1,7:00-9:30,FT6,70
+MK17,Sistem Digital,B,"Septian Geges, S.Kom., M.Kom.",I-B,50,Senin,2,9:30-12:00,GKTA-LT4,60
+MK16,Sistem Digital,A,"Nahumi Nugrahaningsih, S.T., M.T., Ph.D.",I-A,49,Senin,2,9:30-12:00,GKTA-LT5,60
+MK15,Deep Learning,-,"Novera Kristianti, S.T., M.T.",VII,38,Senin,4,12:50-15:20,AUDITORIUM-FT,120
+MK05,Pengolahan Citra Digital,A,"Deddy Ronaldo, S.T., M.T.",V-A,48,Senin,4,12:50-15:20,GKTA-LT4,60
+MK06,Pengolahan Citra Digital,B,"Nahumi Nugrahaningsih, S.T., M.T., Ph.D.",V-B,45,Senin,4,12:50-15:20,GKTA-LT5,60
+MK12,Requirement Engineering,-,"Ressa Priskila, S.T., M.T.",V;VII,116,Selasa,1,7:00-9:30,AUDITORIUM-FT,120
+MK14,Administrasi Basis Data,-,"Devi Karolita, S.Kom., M.Kom., Ph.D.",VII,35,Selasa,5,14:30-17:00,FT6,70
+MK09,Data Mining,A,"Nahumi Nugrahaningsih, S.T., M.T., Ph.D.",V-A,46,Rabu,1,7:00-9:30,AUDITORIUM-FT,120
+MK10,Data Mining,B,"Efrans Christian, S.T., M.T.",V-B,45,Rabu,1,7:00-9:30,GKTA-LT5,60
+MK20,Pengantar Teknik Informatika,A,"Felicia Sylviana, S.T., M.M.",I-A,49,Rabu,2,9:30-12:00,GKTA-LT4,60
+MK08,Jaringan Syaraf Tiruan,B,"Nahumi Nugrahaningsih, S.T., M.T., Ph.D.",V-B,43,Rabu,3,12:00-14:30,AUDITORIUM-FT,120
+MK07,Jaringan Syaraf Tiruan,A,"Septian Geges, S.Kom., M.Kom.",V-A,44,Rabu,3,12:00-14:30,GKTA-LT4,60
+MK13,Algoritma Genetik,-,"Novera Kristianti, S.T., M.T.",V,74,Kamis,2,9:30-12:00,AUDITORIUM-FT,120
+MK11,Penjaminan Mutu Perangkat Lunak,-,"Deddy Ronaldo, S.T., M.T.",V,79,Kamis,5,14:30-17:00,AUDITORIUM-FT,120
+MK01,Metodologi Penelitian,A,"Felicia Sylviana, S.T., M.M.",V-A,45,Jumat,1,7:00-9:30,FT5,70
+MK02,Metodologi Penelitian,B,"Devi Karolita, S.Kom., M.Kom., Ph.D.",V-B,45,Jumat,1,7:00-9:30,GKTA-LT4,60
+MK04,Analisis dan Desain Perangkat Lunak,B,"Deddy Ronaldo, S.T., M.T.",V-B,41,Jumat,4,12:50-15:20,FT6,70
+MK03,Analisis dan Desain Perangkat Lunak,A,"Ressa Priskila, S.T., M.T.",V-A,45,Jumat,4,12:50-15:20,GKTA-LT4,60
